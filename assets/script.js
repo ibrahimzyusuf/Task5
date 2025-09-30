@@ -143,7 +143,7 @@ slider(slider_buttons)
 
 let small_images=document.querySelectorAll(".small-col")
 let main_image=document.querySelector("#mainImg")
-let main_image_srcs=["./assets/images/f4.png","./assets/images/f2.png","./assets/images/f3.png","./assets/images/f1.png"]
+let main_image_srcs=["./assets/images/f4.webp","./assets/images/f2.webp","./assets/images/f3.webp","./assets/images/f1.webp"]
 
 const headphone_projector=(small_images)=>{
     for (let i = 0; i < small_images.length; i++) {
